@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ian Falcão! 👋<br>🎓 Computer Science student<br>🔐 Fully focused on Cybersecurity<br>🛡️ Currently studying SOC operations, threat detection, and incident response<br>💻 Learning penetration testing and ethical hacking<br>🔎 Interested in Blue Team, Red Team, network security, and digital forensics<br>🚀 Building practical skills through labs and hands-on cybersecurity projects
+Hi, I'm Ian Falcão! 👋<br>🎓 Computer Science student<br>⚔️ Fully focused on Red Teaming & Offensive Security<br>🎯 Specializing in Web Penetration Testing, vulnerability assessment, and exploit techniques<br>💻 Hands-on with ethical hacking, network exploitation, and post-exploitation tactics<br>🛡️ Strong foundations in Blue Team & log analysis to better understand defense mechanisms<br>🚀 Building practical skills through labs and hands-on cybersecurity projects
 
 
 ## 🌐 Socials:
